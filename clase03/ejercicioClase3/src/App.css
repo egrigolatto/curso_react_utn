@@ -1,0 +1,43 @@
+
+body{
+  background-color: rgb(83, 79, 79);
+}
+.app{
+  height: 100vh;
+  ;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 16px auto;
+  width: 300px; 
+  background-color: #fff;
+}
+
+.nombre {
+  font-size: 1.5em;
+  margin-bottom: 8px;
+}
+
+.descripcion {
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.precio {
+  font-weight: bold;
+  color: #27ae60; /* Puedes cambiar el color según tu preferencia */
+}
+
+.sku {
+  color: #888;
+  margin-top: 8px;
+}
+
+.cantDisponible {
+  color: #3498db; /* Puedes cambiar el color según tu preferencia */
+  margin-top: 8px;
+}
